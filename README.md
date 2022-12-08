@@ -23,6 +23,6 @@
 <hr>
 <div align="center">
   <h3>Tecnologias utilizadas</h3>
-  <p>HTML, JS, Bootstrap,Git e Github<p>
+  <p>HTML, JS, Bootstrap.<p>
 </div>
 <hr>
